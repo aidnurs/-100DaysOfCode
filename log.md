@@ -1,6 +1,5 @@
 # 100 Days Of Code - Log
 
-<<<<<<< 04bb2a1974802b79b6213b05bd66a566a8c85286
 ### Day 0: August 6, 2017
 
 **Today's Progress**: worked on Random Quote Machine | [github](https://github.com/aidnurs/RandomQuoteMachine)
@@ -21,7 +20,6 @@
 - [ ] use wiki API
 - [ ] Style
 
-
 ### Day 2: August 8, 2017
 
 **Today's Progress**: tried to make weather webpage, made JS30 Day1 exercise.
@@ -36,7 +34,6 @@
 **Today's Progress**: Made an animated clocks(project D2/#JS30) + Algorithms from FCC
 
 **Thoughts:** I thought JS30 projects are too hard for me, but found them very intersting and not so hard, because they're written with pure Javascript and some style rules.
-
 
 ### Day 4: August 10, 2017
 
@@ -73,16 +70,3 @@
 **Today's Progress**:
 
 **Thoughts:** 
-=======
-### Day 0: August 7, 2017
-
-**Today's Progress**: worked on Random Quote Machine | [github](https://github.com/aidnurs/RandomQuoteMachine)
-
-### Day 1: August 8, 2017
-
-**Today's Progress**:
-
-**Thoughts:**
-
-**Link to work:**
->>>>>>> new
