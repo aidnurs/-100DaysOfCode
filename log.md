@@ -67,6 +67,6 @@
 
 ### Day 9: August 15, 2017
 
-**Today's Progress**:
+**Today's Progress**: Finally finished und submited Weather webpage
 
 **Thoughts:** 
