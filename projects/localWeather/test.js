@@ -5,21 +5,6 @@ if (navigator.geolocation) {
       currentPosition=position;
       latitude=currentPosition.coords.latitude;
       longitude=currentPosition.coords.longitude;
-<<<<<<< 04bb2a1974802b79b6213b05bd66a566a8c85286
-
-      $.getJSON("http://api.openweathermap.org/data/2.5/weather?lat="+latitude+"&lon="+longitude+"&units=metric&APPID=cf3058cacde935adb989b6687e543241",function(data){
-        var rawJson = JSON.stringify(data);
-        var json = JSON.parse(rawJson);
-        console.log(json.main.temp);
-        document.getElementById('weather').innerHTML=json.main.temp+"°";
-      });
-    }
-    navigator.geolocation.getCurrentPosition(getCurrentLocation);°
-  };°
-}
-
-
-=======
       //time
       var today=new Date();
       var h = today.getHours();
@@ -46,7 +31,6 @@ if (navigator.geolocation) {
 function checkTime(i) {
   return (i<10)?(i='0'+i):i;
 }
->>>>>>> new
 /*
 
 if (navigator.geolocation) {
