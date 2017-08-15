@@ -1,0 +1,39 @@
+<<<<<<< 04bb2a1974802b79b6213b05bd66a566a8c85286
+#weather{
+  font-size: 50px;
+=======
+body{
+  background-color: #E0FFFF;
+}
+#weather{
+  padding-top: 200px;
+  width: 600px;
+  margin: auto;
+}
+#title{
+  width: 500px;
+  margin: auto;
+  font-size: 70px;
+  border: 2px solid black;
+  box-shadow: 5px 5px 5px #888888;
+  border-radius: 5px;
+  background-color: white;
+}
+#temp{
+  float: left;
+  font-size: 50px;
+  padding: 20px;
+}
+#time{
+  float: left;
+  font-size: 50px;
+  padding: 20px;
+
+}
+#adds{
+  font-size: 50px;
+  float: left;
+  padding: 20px;
+
+>>>>>>> new
+}

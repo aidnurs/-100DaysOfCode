@@ -1,0 +1,57 @@
+body {
+    background-color: #ccf5f5;
+    transform: scale(0.5);
+}
+#gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#title {
+    width: 600px;
+    height: 150px;
+    background-image:url('penguin_pngs/penguin_title.png');
+}
+.penguin1:hover {
+    background-image:url('penguin_pngs/mound_1_hover.png');
+    cursor: pointer;
+}
+.yeti:hover{
+  background-image:url('penguin_pngs/mound_9_hover.png');
+  cursor: pointer;
+}
+.yetiEnd{
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image:url('penguin_pngs/yeti.png');
+  cursor: pointer;
+}
+.penguin1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('penguin_pngs/mound_1.png');
+}
+.penguinEnd{
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url('penguin_pngs/penguin_1.png');
+}
+.yeti{
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image:url('penguin_pngs/mound_9.png');//change this
+}
+#winTextStyle{
+  font-size: 180px;
+  text-align: center;
+}
+#wrapper{
+  text-align: center;
+}
+button{
+  font-size: 80px;
+}
