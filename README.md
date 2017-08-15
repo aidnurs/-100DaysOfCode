@@ -4,14 +4,12 @@
 August 7th, 2017.| November 15th,2017
 
 ## Contents
-<<<<<<< 04bb2a1974802b79b6213b05bd66a566a8c85286
 * [Log - my progress hier](log.md)
 * [Resources](resources.md)
 * [Projects](resources.md)
 
 =======
 * [Resources](resources.md)
->>>>>>> new
 
 ## The Rules
   1. I will code for at least an hour every day for the next 100 days.
@@ -20,7 +18,6 @@ August 7th, 2017.| November 15th,2017
   4. Perfect is the enemy of good. I will not be afraid of making mistakes.
   5. I will ask for help when I need it.
 
-<<<<<<< 04bb2a1974802b79b6213b05bd66a566a8c85286
 =======
 # 100 Days Of Code - Log
 
