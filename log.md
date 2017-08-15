@@ -63,10 +63,10 @@
 
 **Today's Progress**: worked on 2 yesterday's projects - Mondrian and Weather webpages
 
-**Thoughts:** 
+**Thoughts:** First time getting data with API
 
 ### Day 9: August 15, 2017
 
 **Today's Progress**: Finally finished und submited Weather webpage
 
-**Thoughts:** 
+**Thoughts:** I've got one new friend - API, I understand it now
