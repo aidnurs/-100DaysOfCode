@@ -8,8 +8,6 @@ August 7th, 2017.| November 15th,2017
 * [Resources](resources.md)
 * [Projects](resources.md)
 
-* [Resources](resources.md)
-
 ## The Rules
   1. I will code for at least an hour every day for the next 100 days.
   2. I will tweet about my progress every day
