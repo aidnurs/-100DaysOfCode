@@ -1,3 +1,6 @@
+var celsius;
+var fahrenheit;
+
 if (navigator.geolocation) {
   window.onload=function(){
     var currentPosition;
@@ -12,16 +15,13 @@ if (navigator.geolocation) {
       // add a zero in front of numbers<10
       m = checkTime(m);
       document.getElementById('time').innerHTML = h + ":" + m;
-      t = setTimeout(function() {
-        startTime()
-      }, 500);
-      //
-      $.getJSON("http://api.openweathermap.org/data/2.5/weather?lat="+latitude+"&lon="+longitude+"&units=metric&APPID=cf3058cacde935adb989b6687e543241",function(data){
+      $.getJSON("https://fcc-weather-api.glitch.me/api/current?lat=" + latitude +"&lon="+longitude,function(data) {
         var rawJson = JSON.stringify(data);
         var json = JSON.parse(rawJson);
-        console.log(json.weather[0].main);
-        document.getElementById('adds').innerHTML=json.weather[0].main;
-        document.getElementById('temp').innerHTML=json.main.temp+"°";
+        document.getElementById('icon').src=json.weather[0].icon;
+        celsius=document.getElementById('temp').innerHTML=json.main.temp;
+        document.getElementById('temp').innerHTML=json.main.temp+'°';
+        console.log(json);
       });
     }
     navigator.geolocation.getCurrentPosition(getCurrentLocation);
@@ -31,34 +31,8 @@ if (navigator.geolocation) {
 function checkTime(i) {
   return (i<10)?(i='0'+i):i;
 }
-/*
 
-if (navigator.geolocation) {
-    window.onload = function(){
-    var currentPosition;
-    function getCurrentLocation (position) {
-        currentPosition = position;
-        latitude = currentPosition.coords.latitude;
-        longitude = currentPosition.coords.longitude;
-        //AJAX request
-        $.getJSON("http://api.openweathermap.org/data/2.5/weather?lat=" + latitude + "&lon=" + longitude + "&APPID=******************", function (data) {
-            var rawJson = JSON.stringify(data);
-            var json = JSON.parse(rawJson);
-            updateWeather(json); //Update Weather parameters
-        });
-    }
-    navigator.geolocation.getCurrentPosition(getCurrentLocation);
-    };
-  }
-  var longitude;
-  var latitude;
-  function getCurrentLocation() {
-    if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(showPosition);
-    }
-  }
-
-  function showPosition(position) {
-    longitude=position.coords.longitude;
-    latitude=position.coords.latitude;
-  }*/
+function toF(){
+  fahrenheit=celsius*9/5+32;
+  document.getElementById('temp').innerHTML=fahrenheit+'F';
+}
