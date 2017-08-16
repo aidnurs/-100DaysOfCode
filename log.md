@@ -8,9 +8,9 @@
 
 ### Day 10: August 16, 2017
 
-**Today's Progress**: 
+**Today's Progress**: working on TwitchTV webpage(project from FCC) + i'm going to start with nodejs and make a simple local server
 
-**Thoughts:** 
+**Thoughts:** I've no idea what nodejs is, gonna figure it out
 
 ### Day 9: August 15, 2017
 
