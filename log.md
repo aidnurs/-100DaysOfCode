@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log
 
+### Day 11: August 17, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 10: August 16, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 9: August 15, 2017
+
+**Today's Progress**: Finally finished und submited Weather webpage
+
+**Thoughts:** I've got one new friend - API, I understand it now
+
+### Day 8: August 14, 2017
+
+**Today's Progress**: worked on 2 yesterday's projects - Mondrian and Weather webpages
+
+**Thoughts:** First time getting data with API
+
+
+
+
+
+
 ### Day 0: August 6, 2017
 
 **Today's Progress**: worked on Random Quote Machine | [github](https://github.com/aidnurs/RandomQuoteMachine)
@@ -59,26 +88,4 @@
 
 **Thoughts:** I stucked yesterday, shit happens. Felt better after reading [this article](https://medium.freecodecamp.org/learning-to-code-when-it-gets-dark-e485edfb58fd). Nevertheless didn't stopp and coded today
 
-### Day 8: August 14, 2017
 
-**Today's Progress**: worked on 2 yesterday's projects - Mondrian and Weather webpages
-
-**Thoughts:** First time getting data with API
-
-### Day 9: August 15, 2017
-
-**Today's Progress**: Finally finished und submited Weather webpage
-
-**Thoughts:** I've got one new friend - API, I understand it now
-
-### Day 10: August 16, 2017
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-### Day 11: August 17, 2017
-
-**Today's Progress**: 
-
-**Thoughts:** 
