@@ -70,3 +70,15 @@
 **Today's Progress**: Finally finished und submited Weather webpage
 
 **Thoughts:** I've got one new friend - API, I understand it now
+
+### Day 10: August 16, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 11: August 17, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
