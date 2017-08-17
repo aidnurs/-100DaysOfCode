@@ -1,6 +1,38 @@
-var streams=["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas"];
+var streams=["ESL_SC2","freecodecamp", "RobotCaleb", "noobs2ninjas"];
+
+
 
 function load() {
+  var url;
+  var newImg;
+  var newDiv;
+  var st;
+  for (var i = 0; i < streams.length; i++) {
+    url="https://wind-bow.gomix.me/twitch-api/channels/"+streams[i];
+    $.getJSON(url+'?callback=?',function(data){
+      console.log(data);
+
+      newDiv=document.createElement('div');
+      newDiv.innerHTML=data.name;
+      newDiv.classList.add('names');
+      document.getElementById('mainBox').appendChild(newDiv);
+
+      newImg=document.createElement('img');
+      newImg.src=data.logo;
+      document.getElementById('mainBox').appendChild(newImg);
+
+      st=document.createElement('div');
+      st.innerHTML=data.status;
+      st.classList.add("statuses");
+      document.getElementById('mainBox').appendChild(st);
+
+
+    });
+  }
+}
+
+
+/*function load() {
   var url="https://wind-bow.gomix.me/twitch-api/channels/freecodecamp";
   var promise=$.getJSON(url+'?callback=?',function(data){
     console.log(data);
@@ -29,3 +61,4 @@ function load() {
   document.getElementById('mainBox').appendChild(newA);
   document.getElementById('link').appendChild(name);
 }
+*/
