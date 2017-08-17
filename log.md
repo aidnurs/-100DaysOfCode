@@ -2,9 +2,9 @@
 
 ### Day 11: August 17, 2017
 
-**Today's Progress**: 
+**Today's Progress**: working on TwitchTV + basic algorithms from FCC + learnyounode exercises
 
-**Thoughts:** 
+**Thoughts:** Doing cool stuff with JS but still need to upgrade my scills(too much code). Also I want to finish front-end part on FCC, that's why doing BasicAlgorithm.
 
 ### Day 10: August 16, 2017
 
@@ -46,7 +46,7 @@
 
 **Today's Progress**: Made Pop-Up Penguin Game(idea from Coder) with pure Javascript. | [github](https://github.com/aidnurs/penguins)
 
-**Thoughts:** Coded all day. Feel the progress and you can see it from my .js code. There is only Javascript, nothing else! 
+**Thoughts:** Coded all day. Feel the progress and you can see it from my .js code. There is only Javascript, nothing else!
 
 ### Day 3: August 9, 2017
 
@@ -60,7 +60,7 @@
 
 **Thoughts:** Tried to start with back-end, but still need a lot of praxis with front-end. Not satisfied
 
-**TODO:** 
+**TODO:**
 - [ ] learn how to use API
 
 ### Day 1: August 7, 2017
@@ -69,7 +69,7 @@
 
 **Thoughts:** Main problem was with searching engine, but made it. Page has no style, pure Javascript
 
-**TODO:** 
+**TODO:**
 - [ ] use wiki API
 - [ ] Style
 
@@ -77,7 +77,7 @@
 
 **Today's Progress**: worked on Random Quote Machine | [github](https://github.com/aidnurs/RandomQuoteMachine)
 
-**Thoughts:** Cheated with this project, made an array with quotes. 
+**Thoughts:** Cheated with this project, made an array with quotes.
 
 **TODO:**
 - [ ] Quotes should be random, not from an array
