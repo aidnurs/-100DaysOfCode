@@ -1,4 +1,4 @@
-var streams=["ESL_SC2","freecodecamp", "RobotCaleb", "noobs2ninjas"];
+var streams=["ESL_SC2","freecodecamp"];
 
 
 
@@ -11,22 +11,17 @@ function load() {
     url="https://wind-bow.gomix.me/twitch-api/channels/"+streams[i];
     $.getJSON(url+'?callback=?',function(data){
       console.log(data);
-
       newDiv=document.createElement('div');
-      newDiv.innerHTML=data.name;
-      newDiv.classList.add('names');
+      newDiv.classList.add('row');
+      newDiv.classList.add('boxes');
+      newDiv.innerHTML=
+        '<div class="col-sm-4">'+
+          '<img src="'+data.logo+'">'+
+          '<a href="'+data.url+'"target="_blank">'+data.name+
+          '</a>'+
+          '</div>'+
+        '<div class="col-sm-8">'+data.status+'</div>';
       document.getElementById('mainBox').appendChild(newDiv);
-
-      newImg=document.createElement('img');
-      newImg.src=data.logo;
-      document.getElementById('mainBox').appendChild(newImg);
-
-      st=document.createElement('div');
-      st.innerHTML=data.status;
-      st.classList.add("statuses");
-      document.getElementById('mainBox').appendChild(st);
-
-
     });
   }
 }
