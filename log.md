@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: August 18, 2017
+
+**Today's Progress**: worked with nodejs, just playing with it and trying different commands + still doing algorithms from FCC
+
+**Thoughts:** node isn't so hard as I thought. DO FCC to get certificate!!!
+
 ### Day 11: August 17, 2017
 
 **Today's Progress**: working on TwitchTV + basic algorithms from FCC + learnyounode exercises
