@@ -2,6 +2,12 @@
 
 ### Day 12: August 18, 2017
 
+**Today's Progress**: worked all day with nodejs, upgraded my server, now it can give you all files from this dir
+
+**Thoughts:** need a lot of practice with back-end
+
+### Day 12: August 18, 2017
+
 **Today's Progress**: worked with nodejs, just playing with it and trying different commands + still doing algorithms from FCC
 
 **Thoughts:** node isn't so hard as I thought. DO FCC to get certificate!!!
