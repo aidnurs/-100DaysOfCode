@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 12: August 18, 2017
+### Day 13: August 19, 2017
 
 **Today's Progress**: worked all day with nodejs, upgraded my server, now it can give you all files from this dir
 
