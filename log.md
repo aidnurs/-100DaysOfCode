@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 14: August 20, 2017
+
+**Today's Progress**: worked on simple jsCalculator(from FCC)+D5/#JS30+algorithms
+
+**Thoughts:** cheated with this calculator, copied style and html, because have interest only in javascript. Also started using some jQuery, it's really helpful.
+
 ### Day 13: August 19, 2017
 
 **Today's Progress**: worked all day with nodejs, upgraded my server, now it can give you all files from this dir
