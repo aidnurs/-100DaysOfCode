@@ -1,4 +1,4 @@
-/*$(document).ready(function() {
+Dr/*$(document).ready(function() {
   $('button').click(function() {
     var a=$('button').attr("value");
     console.log(a);
@@ -12,7 +12,7 @@ $(document).ready(function() {
   $('button').click(function() {
     var a=($(this).attr('value'));
     if (isNaN(a)) {
-      
+
       console.log(a);
     }else{
       current=parseInt(a);

@@ -2,6 +2,12 @@
 
 ### Day 14: August 20, 2017
 
+**Today's Progress**: finished basic FCC algorithms + #dailycssimages + D6/#JS30
+
+**Thoughts:** noticed that I have absolute 0% skills in css, so started with dailyCssImages, exercises are simple, but they work. Thought that style is for loosers xD
+
+### Day 14: August 20, 2017
+
 **Today's Progress**: worked on simple jsCalculator(from FCC)+D5/#JS30+algorithms
 
 **Thoughts:** cheated with this calculator, copied style and html, because have interest only in javascript. Also started using some jQuery, it's really helpful.
