@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 14: August 20, 2017
+### Day 16: August 22, 2017
+
+**Today's Progress**: learnyounode+D2/#dailycssimages+D7/#JS30 
+
+**Thoughts:** Made nodejs exercises, it was pretty easy, proud of myself!!! Also learned more style rules(css). 
+
+### Day 15: August 21, 2017
 
 **Today's Progress**: finished basic FCC algorithms + #dailycssimages + D6/#JS30
 
