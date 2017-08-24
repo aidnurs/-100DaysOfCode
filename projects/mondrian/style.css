@@ -1,6 +1,149 @@
-.box{
+body{
+  padding: 50px;
+}
+#colorPicker{
+
+}
+.color{
   width: 100px;
   height: 100px;
-  margin: auto;
   border: 2px solid black;
+}
+#black{
+  background-color: black;
+}
+#yellow{
+  background-color: yellow;
+}
+#green{
+  background-color: green;
+}
+#red{
+  background-color: red;
+}
+#b1{
+  width: 670px;
+}
+#b2{
+  width: 670px;
+}
+#b3{
+  width: 670px;
+}
+#b4{
+  width: 670px;
+}
+#b1_1{
+  width: 130px;
+  height: 130px;
+  border: solid black;
+  border-width: 2px 10px 10px 2px;
+  float: left;
+}
+#b1_2{
+  width: 300px;
+  height: 130px;
+  border: solid black;
+  border-width: 2px 10px 10px 2px;
+  float: left;
+
+}
+#b1_3{
+  width: 90px;
+  height: 130px;
+  border: solid black;
+  border-width: 2px 10px 10px 2px;
+  float: left;
+
+}
+#b1_4{
+  width: 150px;
+  height: 130px;
+  border: solid black;
+  border-width: 2px 2px 10px 2px;
+  float: right;
+}
+#b2_1{
+  width: 130px;
+  height: 200px;
+  border: solid black;
+  border-width: 0px 10px 10px 2px;
+  float: left;
+}
+#b2_2{
+  width: 300px;
+  height: 200px;
+  border: solid black;
+  border-width: 0px 10px 10px 2px;
+  float: left;
+}
+#b2_3{
+  width: 90px;
+  height: 200px;
+  border: solid black;
+  border-width: 0px 10px 10px 2px;
+  float: left;
+}
+#b2_4{
+  width: 150px;
+  height: 200px;
+  border: solid black;
+  border-width: 0px 2px 10px 2px;
+  float: right;
+}
+#b3_1{
+  width: 130px;
+  height: 90px;
+  border: solid black;
+  border-width: 0px 10px 10px 2px;
+  float: left;
+}
+#b3_2{
+  width: 300px;
+  height: 90px;
+  border: solid black;
+  border-width: 0px 10px 10px 2px;
+  float: left;
+}
+#b3_3{
+  width: 90px;
+  height: 90px;
+  border: solid black;
+  border-width: 0px 10px 10px 2px;
+  float: left;
+}
+#b3_4{
+  width: 150px;
+  height: 90px;
+  border: solid black;
+  border-width: 0px 2px 10px 2px;
+  float: right;
+}
+#b4_1{
+  width: 130px;
+  height: 150px;
+  border: solid black;
+  border-width: 0px 10px 10px 2px;
+  float: left;
+}
+#b4_2{
+  width: 300px;
+  height: 150px;
+  border: solid black;
+  border-width: 0px 10px 10px 2px;
+  float: left;
+}
+#b4_3{
+  width: 90px;
+  height: 150px;
+  border: solid black;
+  border-width: 0px 10px 10px 2px;
+  float: left;
+}
+#b4_4{
+  width: 150px;
+  height: 150px;
+  border: solid black;
+  border-width: 0px 2px 10px 2px;
+  float: right;
 }

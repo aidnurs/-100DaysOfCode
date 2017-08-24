@@ -3,11 +3,48 @@
   <head>
     <meta charset="utf-8">
     <title>Mondrian</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   </head>
   <body>
-    <div class="box"></div>
-    <div class="box"></div>
-    <div class="box"></div>
-    <div class="box"></div>
+
+    <div class="container">
+      <div class="col-sm-2" id="colorPicker">
+        <div class="color" id="black"></div>
+        <div class="color" id="yellow"></div>
+        <div class="color" id="green"></div>
+        <div class="color" id="red"></div>
+      </div>
+      <div class="col-sm-10" id="mainBox">
+        <div class="row" id="b1">
+          <div class="box" id="b1_1"></div>
+          <div class="box" id="b1_2"></div>
+          <div class="box" id="b1_3"></div>
+          <div class="box" id="b1_4"></div>
+        </div>
+        <div class="row" id="b2">
+          <div class="box" id="b2_1"></div>
+          <div class="box" id="b2_2"></div>
+          <div class="box" id="b2_3"></div>
+          <div class="box" id="b2_4"></div>
+        </div>
+        <div class="row" id="b3">
+          <div class="box" id="b3_1"></div>
+          <div class="box" id="b3_2"></div>
+          <div class="box" id="b3_3"></div>
+          <div class="box" id="b3_4"></div>
+        </div>
+        <div class="row" id="b4">
+          <div class="box" id="b4_1"></div>
+          <div class="box" id="b4_2"></div>
+          <div class="box" id="b4_3"></div>
+          <div class="box" id="b4_4"></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="test.js"></script>
   </body>
 </html>
