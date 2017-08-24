@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 18: August 24, 2017
+
+**Today's Progress**: working on my last projects
+
+**Thoughts:** I'm on my way back to Vienna, have no internet for 2-3 days, nevertheless trying to code everyday and everywhere.
+
+### Day 17: August 23, 2017
+
+**Today's Progress**: worked on portfolio page + D8/#JS30 + some css exercises.
+
+**Thoughts:** packing clothes, coded not much.
+
 ### Day 16: August 22, 2017
 
 **Today's Progress**: learnyounode+D2/#dailycssimages+D7/#JS30 
