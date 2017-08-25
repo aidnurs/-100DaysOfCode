@@ -2,6 +2,12 @@
 
 ### Day 18: August 24, 2017
 
+**Today's Progress**: worked on portfolio page
+
+**Thoughts:** It's f#cking hard to work when you are not in your city and you have flight tomorrow, but doing my work!!!
+
+### Day 18: August 24, 2017
+
 **Today's Progress**: working on my last projects
 
 **Thoughts:** I'm on my way back to Vienna, have no internet for 2-3 days, nevertheless trying to code everyday and everywhere.
