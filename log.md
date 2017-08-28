@@ -2,9 +2,9 @@
 
 ### Day 22: August 28, 2017
 
-**Today's Progress**: 
+**Today's Progress**: learning nodejs with learnyounode exercises
 
-**Thoughts:** 
+**Thoughts:** need to spend more time for coding
 
 ### Day 21: August 27, 2017
 
