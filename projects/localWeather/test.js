@@ -36,3 +36,7 @@ function toF(){
   fahrenheit=celsius*9/5+32;
   document.getElementById('temp').innerHTML=fahrenheit+'F';
 }
+
+function toC() {
+  document.getElementById('temp').innerHTML=celsius+'°';
+}

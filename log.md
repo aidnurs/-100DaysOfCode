@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 18: August 24, 2017
+### Day 22: August 28, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 21: August 27, 2017
+
+**Today's Progress**: made mondrian webpage again
+
+**Thoughts:** I've a transit time of 7 hours in Minsk. Sleep and code,sleep and code-time goes fast 
+
+### Day 20: August 26, 2017
+
+**Today's Progress**: last projects
+
+**Thoughts:** couldn't learn anything new for a couple days
+
+### Day 19: August 25, 2017
 
 **Today's Progress**: worked on portfolio page
 
