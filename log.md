@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23: August 29, 2017
+
+**Today's Progress**: same as yesterday - learnyounode
+
+**Thoughts:** exercises are harder and harder, this course is cool, beacause everything is in 12 exercises.
+
 ### Day 22: August 28, 2017
 
 **Today's Progress**: learning nodejs with learnyounode exercises
