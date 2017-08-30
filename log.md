@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 23: August 29, 2017
+### Day 25: August 31, 2017
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+### Day 24: August 30, 2017
 
 **Today's Progress**: completed learnyounode
 
