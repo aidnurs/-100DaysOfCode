@@ -2,9 +2,9 @@
 
 ### Day 25: August 31, 2017
 
-**Today's Progress**:
+**Today's Progress**: finished expressworks and git-it
 
-**Thoughts:** 
+**Thoughts:** Made expressjs course, but it's not enough to understand it
 
 ### Day 24: August 30, 2017
 
