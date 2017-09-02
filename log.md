@@ -2,15 +2,15 @@
 
 ### Day 27: September 2, 2017
 
-**Today's Progress**:
+**Today's Progress**: started with API Projects from FCC
 
-**Thoughts:** 
+**Thoughts:** it seems a little bit hard, but gonna do it
 
 ### Day 26: September 1, 2017
 
 **Today's Progress**: learnyoumongo
 
-**Thoughts:** 
+**Thoughts:** love mongodb
 
 ### Day 25: August 31, 2017
 
