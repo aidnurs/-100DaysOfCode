@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 27: September 2, 2017
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+### Day 26: September 1, 2017
+
+**Today's Progress**: learnyoumongo
+
+**Thoughts:** 
+
 ### Day 25: August 31, 2017
 
 **Today's Progress**: finished expressworks and git-it
