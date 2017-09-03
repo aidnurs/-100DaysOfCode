@@ -2,6 +2,12 @@
 
 ### Day 27: September 2, 2017
 
+**Today's Progress**: finished 2 API projects
+
+**Thoughts:** it was easy but next projects seem to be hard
+
+### Day 27: September 2, 2017
+
 **Today's Progress**: started with API Projects from FCC
 
 **Thoughts:** it seems a little bit hard, but gonna do it
