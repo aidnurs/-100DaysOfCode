@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 28: September 3, 2017
+### Day 29: September 4, 2017
 
 **Today's Progress**: finished another API project (URL Shortener Microservice)
 
