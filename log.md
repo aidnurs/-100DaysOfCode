@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 27: September 2, 2017
+### Day 28: September 3, 2017
+
+**Today's Progress**: finished another API project (URL Shortener Microservice)
+
+**Thoughts:** Proud of myself, finally started to work with MongoDB
+
+### Day 28: September 3, 2017
 
 **Today's Progress**: finished 2 API projects
 
