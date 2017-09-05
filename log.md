@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 30: September 5, 2017
+
+**Today's Progress**: finished another API project + started to learn how to use promises
+
+**Thoughts:** day by day learn more and more and feel that I can do more cool things
+
 ### Day 29: September 4, 2017
 
 **Today's Progress**: finished another API project (URL Shortener Microservice)
