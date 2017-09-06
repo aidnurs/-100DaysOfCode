@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 31: September 6, 2017
+
+**Today's Progress**: working on Image Search API project from FCC
+
+**Thoughts:** past projects were nothing compared to this project, google have so many technologies, using right now on of them-search engine
+
 ### Day 30: September 5, 2017
 
 **Today's Progress**: finished another API project + started to learn how to use promises
