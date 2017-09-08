@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 33: September 8, 2017
+
+**Today's Progress**: still working on image search API project
+
+**Thoughts:** made some progress today, finally got json data
+
+### Day 32: September 7, 2017
+
+**Today's Progress**: working on yesterday's project image search API
+
+**Thoughts:** tried a lot of methods to get this API, so made maximum API calls pro day. work hard
+
 ### Day 31: September 6, 2017
 
 **Today's Progress**: working on Image Search API project from FCC
