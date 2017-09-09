@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 34: September 9, 2017
+
+**Today's Progress**: finished imagesearch API, started with dynamic web app projects.
+
+**Thoughts:** this project gonna be my first big project, don't know how many days I'll need to finish it. back-end certificate in few steps!
+
 ### Day 33: September 8, 2017
 
 **Today's Progress**: still working on image search API project
