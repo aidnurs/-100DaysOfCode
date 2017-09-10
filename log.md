@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 35: September 10, 2017
+
+**Today's Progress**: working on Voting app from FCC
+
+**Thoughts:** I really don't know where to start with this project, tried to start full app from zero, but it's hard. Finally decided to do this with clementinejs.
+
 ### Day 34: September 9, 2017
 
 **Today's Progress**: finished imagesearch API, started with dynamic web app projects.
