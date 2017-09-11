@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-###---Day 36: September 11, 2017
+###Day 36: September 11, 2017
 
-**Today's Progress**: stuck
+**Today's Progress**: learning VueJs
 
-**Thoughts:** had an exam today, so tired. tried to code a little bit, but nothing.
+**Thoughts:** I'd an exam today, so tired. I wanted to take one day break, but my mind said me to work! Voting app too hard for me right now, I need more skills, but I promise I'll do you, Voting APP
 
 ### Day 35: September 10, 2017
 
