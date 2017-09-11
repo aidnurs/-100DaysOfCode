@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###---Day 36: September 11, 2017
+
+**Today's Progress**: stuck
+
+**Thoughts:** had an exam today, so tired. tried to code a little bit, but nothing.
+
 ### Day 35: September 10, 2017
 
 **Today's Progress**: working on Voting app from FCC
