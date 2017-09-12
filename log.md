@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 37: September 12, 2017
+
+**Today's Progress**: VueJs
+
+**Thoughts:** I'd no internet today, but trying to code something
+
 ###Day 36: September 11, 2017
 
 **Today's Progress**: learning VueJs
