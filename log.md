@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 38: September 13, 2017
+
+**Today's Progress**: VueJs + finishing JS Calculator
+
+**Thoughts:** Last 5 back-end projects are hard for me now, was so close to certificate. I'm going to learn more and work harder now to get it later. Rigth now learning vue.js (it's awesome) and decided to do a few last projects from front-end certification.
+
 ###Day 37: September 12, 2017
 
 **Today's Progress**: VueJs
