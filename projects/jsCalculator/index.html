@@ -4,35 +4,16 @@
     <meta charset="utf-8">
     <title>JS Calculator</title>
     <link rel="stylesheet" href="style.css">
-    <script type="text/javascript" src="test.js"></script>
   </head>
   <body>
-    <div class="" id="okno">
-      <div class="" id="currentResult">0</div>
-      <div class="" id="result"></div>
-
+    <div id="app-4">
+      <ol>
+        <li v-for="todo in todos">
+          {{ todo.text }}
+        </li>
+      </ol>
     </div>
-    <div class="" id="">
-      <div class="" id="numbers">
-        <button type="button" name="button" id="1">1</button>
-        <button type="button" name="button" id="2">2</button>
-        <button type="button" name="button" id="3">3</button>
-        <button type="button" name="button" id="4">4</button>
-        <button type="button" name="button" id="5">5</button>
-        <button type="button" name="button" id="6">6</button>
-        <button type="button" name="button" id="7">7</button>
-        <button type="button" name="button" id="8">8</button>
-        <button type="button" name="button" id="9">9</button>
-      </div>
-      <div class="" id="ops">
-        <button type="button" name="button" id="+">+</button>
-        <button type="button" name="button" id="-">-</button>
-        <button type="button" name="button" id="*">*</button>
-        <button type="button" name="button" id="/">/</button>
-        <button type="button" name="button" id="=">=</button>
-
-      </div>
-    </div>
-
+    <script src="https://npmcdn.com/vue/dist/vue.js"></script>
+    <script type="text/javascript" src="test.js"></script>
   </body>
 </html>
