@@ -1,30 +1,18 @@
 window.onload=function(){
-  var totalNumber=0;
+  var input="";
   var currentNumber=0;
-  $('button').click(function() {
-    if (Number($(this).text())) {
-      currentNumber=Number($(this).text());
-    }else{
-      switch ($(this).text()) {
-        case "C":
-          totalNumber=0;
-          currentNumber=0;
-          break;
-        case "+":
-          totalNumber=totalNumber+currentNumber;
-          break;
-        case "=":
-          $('#current').html(totalNumber);
-          break;
-        default:
-
-          break;
-
-      }
-    }
-    $('#current').html(currentNumber);
-
-
+  var arr=[];
+  $('.numbers').click(function() {
+    input+=$(this).text();
+    console.log(input);
+  });
+  $('#equal').click(function() {
 
   });
-}
+  $(".operators").click(function() {
+    currentNumber=Number(input);
+    arr.push(currentNumber);
+    input="";
+    console.log(arr);
+  })
+};
