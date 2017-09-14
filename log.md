@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 39: September 14, 2017
+
+**Today's Progress**: vue.js + js calculator
+
+**Thoughts:** coded 2-3 hours today, but didn't finish my calculator project. sad
+
 ###Day 38: September 13, 2017
 
 **Today's Progress**: VueJs + finishing JS Calculator
