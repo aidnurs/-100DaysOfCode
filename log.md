@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 40: September 15, 2017
+
+**Today's Progress**: almost finished JS Calculator
+
+**Thoughts:** 3-4 hours of thinking how algorithm should work, 30 minutes of making. last step - add css.
+
 ###Day 39: September 14, 2017
 
 **Today's Progress**: vue.js + js calculator
