@@ -7,9 +7,9 @@ window.onload=function(){
   var text="";
   var nextNumber=false;
   $('.numbers').click(function(){
-    if (ans!==0) {
+    /*if (ans!==0) {
       input="";
-    }
+    }*/
     input+=$(this).text();
     $('#current').html(input);
   });
@@ -23,7 +23,7 @@ window.onload=function(){
     input="";
     switch (operator) {
       case '/':
-        ans=firstNumber/secondNumber;
+        ans=+(firstNumber/secondNumber).toFixed(6);
         break;
       case '*':
         ans=firstNumber*secondNumber;

@@ -4,8 +4,10 @@
     <meta charset="utf-8">
     <title>JS Calculator</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   </head>
   <body>
+    <h1>JS calculator</h1>
     <div id="calculator" class="container">
       <div id="panel">
         <div id="current">
@@ -13,36 +15,38 @@
         </div>
       </div>
       <div id="buttons">
-        <button type="button" id="C">C</button>
-        <button type="button" class="operators" id="division">/</button>
-        <button type="button" class="operators" id="mult">*</button>
-        <button type="button" class="operators" id="plus">+</button>
-        <button type="button" class="operators" id="minus">-</button>
-        <button type="button" id="equal">=</button>
-        <br />
-        <button type="button" class="numbers" id="7">7</button>
-        <button type="button" class="numbers" id="8">8</button>
-        <button type="button" class="numbers" id="9">9</button>
-        <br />
-        <button type="button" class="numbers" id="4">4</button>
-        <button type="button" class="numbers" id="5">5</button>
-        <button type="button" class="numbers" id="6">6</button>
-        <br />
-        <button type="button" class="numbers" id="1">1</button>
-        <button type="button" class="numbers" id="2">2</button>
-        <button type="button" class="numbers" id="3">3</button>
-        <br />
-        <button type="button" class="numbers" id="0">0</button>
+        <div class="row bot">
+          <button type="button" id="C">C</button>
+          <button type="button" class="operators" id="division">/</button>
+          <button type="button" class="operators" id="mult">*</button>
+          <button type="button" class="operators" id="minus">-</button>
+        </div>
+        <div class="row">
+          <button type="button" class="numbers" id="7">7</button>
+          <button type="button" class="numbers" id="8">8</button>
+          <button type="button" class="numbers" id="9">9</button>
+          <button type="button" class="operators" id="plus">+</button>
+        </div>
+        <div class="row">
+          <button type="button" class="numbers" id="4">4</button>
+          <button type="button" class="numbers" id="5">5</button>
+          <button type="button" class="numbers" id="6">6</button>
+          <button type="button" id="equal">=</button>
+
+        </div>
+        <div class="row">
+          <button type="button" class="numbers" id="1">1</button>
+          <button type="button" class="numbers" id="2">2</button>
+          <button type="button" class="numbers" id="3">3</button>
+          <button type="button" class="numbers" id="0">0</button>
+        </div>
       </div>
-
-
     </div>
 
 
-
-
-
+    </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="test.js"></script>
   </body>
 </html>
