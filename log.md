@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 41: September 16, 2017
+
+**Today's Progress**: making pomodoro clock
+
+**Thoughts:** easy. coding late today. I need to do only few things to finish this project, I'm going to make it tomorrow, now sleep
+
 ###Day 40: September 15, 2017
 
 **Today's Progress**: almost finished JS Calculator
