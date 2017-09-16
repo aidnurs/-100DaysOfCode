@@ -7,7 +7,7 @@ window.onload=function(){
   var text="";
   var nextNumber=false;
   $('.numbers').click(function(){
-    /*if (ans!==0) {
+    /*if (ans) {
       input="";
     }*/
     input+=$(this).text();
@@ -49,25 +49,3 @@ window.onload=function(){
     $('#current').html(ans);
   });
 };
-
-/*
-switch (input) {
-  case 'C':
-    firstNumber=0;
-    secondNumber=0;
-    ans=0;
-    break;
-  case '/':break;
-  case '*':break;
-  case '+':
-    ans=firstNumber+secondNumber;
-    secondNumber=0;
-    firstNumber=ans;
-    $('#current').html(ans);
-    break;
-  case '-':break;
-  case '=':
-
-    break;
-  default:
-*/
