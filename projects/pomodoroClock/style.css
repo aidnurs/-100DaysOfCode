@@ -1,4 +1,5 @@
 body {
+  padding: 20px;
   text-align: center;
   margin: 0 auto;
   font-family: Montserrat;
@@ -24,10 +25,6 @@ body {
   background: -moz-linear-gradient(top center, #22262b 100%, #00f 40%);
   background: -o-linear-gradient(top, #22262b 100%, #00f 40%);
   background: linear-gradient(to bottom, #22262b 100%, #00f 0%);
-}
-h1 {
-  font-size: 60px;
-  font-family: Pacifico;
 }
 h3 {
   font-size: 40px;
@@ -58,4 +55,7 @@ button:hover {
 #count,
 button {
   font-size: 40px;
+}
+#github{
+  font-size: 50px;
 }

@@ -1,31 +1,50 @@
 window.onload = function() {
   var audio = $('audio')[0];
   var breakTime = 5;
-  var countTime = 1;
+  var countTime = 25;
+  var minutes=25;
   var seconds = 0;
   var pause = false;
   var counting;
   function countdown() {
-    if (countdown === 0 && seconds === 1) {
+    if (minutes === 0 && seconds === 1) {
       audio.play();
     }
-    if (countdown === 0 && seconds === 0) {
-      $('.title').html('Break');
-      countTime=breakTime;
+    if (minutes === 0 && seconds === 0) {
+      if ($('.title').text()==='Session') {
+        $('.title').html('Break');
+        minutes=breakTime;
+        $('.timer').html(minutes + ":0" + seconds);
+      }else{
+        $('.title').html('Session');
+        minutes=countTime;
+        $('.timer').html(minutes + ":0" + seconds);
+      }
+    }else{
+      if (seconds === 0) {
+        seconds = 60;
+        minutes--;
+      }
+      seconds--;
+      if (seconds<10) {
+        $('.timer').html(minutes + ':0' + seconds);
+      }else{
+        $('.timer').html(minutes + ':' + seconds);
+      }
     }
-    if (seconds === 0) {
-      seconds = 60;
-      countTime--;
-    }
-    seconds--;
-    $('.timer').html(countTime + ':' + seconds);
+
   }
-  $('.timer').html(countTime + ':00');
+  $('.timer').html(minutes + ':00');
+
   $('#minusBreak').click(function() {
     if (pause === false) {
       if (breakTime > 1) {
         breakTime--;
         $('#break').html(breakTime);
+        $('.title').text('Session');
+        $(".timer").html(countTime + ":00");
+        seconds=0;
+        minutes=countTime;
       }
     }
   });
@@ -33,6 +52,10 @@ window.onload = function() {
     if (pause === false) {
       breakTime++;
       $('#break').html(breakTime);
+      $('.title').text('Session');
+      $(".timer").html(countTime + ":00");
+      seconds=0;
+      minutes=countTime;
     }
   });
   $('#minusCount').click(function() {
@@ -41,7 +64,9 @@ window.onload = function() {
         countTime--;
         $('#count').html(countTime);
         $('.timer').html(countTime + ':00');
+        $('.title').text('Session');
         seconds = 0;
+        minutes=countTime;
       }
     }
   });
@@ -50,12 +75,14 @@ window.onload = function() {
       countTime++;
       $('#count').html(countTime);
       $('.timer').html(countTime + ':00');
+      $('.title').text('Session');
       seconds = 0;
+      minutes = countTime;
     }
   });
   $('.clock').click(function() {
     if (pause === false) {
-      counting = setInterval(countdown, 100);
+      counting = setInterval(countdown, 1000);
       pause = true;
     } else {
       clearInterval(counting);
