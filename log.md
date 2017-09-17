@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 42: September 17, 2017
+
+**Today's Progress**: finished pomodoro clock, started with tic-tac-toe game 
+
+**Thoughts:** project is not so hard to do, I'm going to make super game, where user's win is impossible. Rise of the Machines?
+
 ###Day 41: September 16, 2017
 
 **Today's Progress**: making pomodoro clock
