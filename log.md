@@ -2,6 +2,12 @@
 
 ###Day 42: September 17, 2017
 
+**Today's Progress**: made only algorithms today
+
+**Thoughts:** I'd not so much time, but minimum 1h done
+
+###Day 42: September 17, 2017
+
 **Today's Progress**: finished pomodoro clock, started with tic-tac-toe game 
 
 **Thoughts:** project is not so hard to do, I'm going to make super game, where user's win is impossible. Rise of the Machines?
