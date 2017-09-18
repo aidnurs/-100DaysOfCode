@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-###Day 42: September 17, 2017
+###Day 43: September 18, 2017
 
 **Today's Progress**: made only algorithms today
 
