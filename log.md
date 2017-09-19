@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 44: September 19, 2017
+
+**Today's Progress**: making tic-tac-toe game+FCC Intermediate Algorithms
+
+**Thoughts:** last days see no progress, doing only things that I can do. I need to solve this problem.
+
 ###Day 43: September 18, 2017
 
 **Today's Progress**: made only algorithms today
