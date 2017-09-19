@@ -9,15 +9,7 @@ body{
 }
 #table{
   margin: auto;
-  width: 300px;
-  height: 300px;
-  border: 2px solid black;
-  text-align: center;
-}
-.xoxo{
-  float: left;
-  width: 70px;
-  
-  height: 70px;
+  width: 50%;
+  height: 50%;
   border: 2px solid black;
 }
