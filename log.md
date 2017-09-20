@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 45: September 20, 2017
+
+**Today's Progress**:tic tac toe game
+
+**Thoughts:** trying to find algorithm to solve it
+
 ###Day 44: September 19, 2017
 
 **Today's Progress**: making tic-tac-toe game+FCC Intermediate Algorithms
