@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 46: September 21, 2017
+
+**Today's Progress**: tic tac toe game
+
+**Thoughts:** remaking this project with vuejs
+
 ###Day 45: September 20, 2017
 
 **Today's Progress**:tic tac toe game
