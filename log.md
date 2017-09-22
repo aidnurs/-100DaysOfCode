@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 47: September 22, 2017
+
+**Today's Progress**: tic tac toe with vue.js
+
+**Thoughts:** making progress in learning of something new again
+
 ###Day 46: September 21, 2017
 
 **Today's Progress**: tic tac toe game
