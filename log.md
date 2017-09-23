@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 48: September 23, 2017
+
+**Today's Progress**: tic tac toe with vue.js
+
+**Thoughts:** need only to add cpu and to fix some mistakes. Coded a lot today, gonna finish this tomorrow.
+
 ###Day 47: September 22, 2017
 
 **Today's Progress**: tic tac toe with vue.js
