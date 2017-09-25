@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 49: September 25, 2017
+
+**Today's Progress**: started with Simon game from FCC
+
+**Thoughts:** become intimate with vue.js
+
 ###!!! Day 49: September 24, 2017 !!!
 
 **Today's Progress**: ---
