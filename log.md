@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###!!! Day 49: September 24, 2017 !!!
+
+**Today's Progress**: ---
+
+**Thoughts:** missed one day first time, had no time
+
 ###Day 48: September 23, 2017
 
 **Today's Progress**: tic tac toe with vue.js
