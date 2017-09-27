@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+###Day 51: September 27, 2017
+
+**Today's Progress**: todoist-first steps
+
+**Thoughts:** making back-end of this project(API's)
+
+###Day 50: September 26, 2017
+
+**Today's Progress**: made a little bit of simon game project, also making a simple todoist web app
+
+**Thoughts:** started to make full web app
+
 ###Day 49: September 25, 2017
 
 **Today's Progress**: started with Simon game from FCC
