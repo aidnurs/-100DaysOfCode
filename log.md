@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 52: September 28, 2017
+
+**Today's Progress**: todoist-backend
+
+**Thoughts:** CRUD-made 3 of 4 endpoints
+
 ###Day 51: September 27, 2017
 
 **Today's Progress**: todoist-first steps
