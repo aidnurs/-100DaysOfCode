@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 53: September 29, 2017
+
+**Today's Progress**: todoist-frontend
+
+**Thoughts:** made backend, writing frontend on vuejs. The small pieces of my different tools knowledges making the big picture. Yeah, dramatic
+
 ###Day 52: September 28, 2017
 
 **Today's Progress**: todoist-backend
