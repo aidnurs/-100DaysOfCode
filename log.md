@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 54: September 30, 2017
+
+**Today's Progress**: todoist, connected frontend with backend
+
+**Thoughts:** coded a lot today, now my page can get post und delete server data 
+
 ###Day 53: September 29, 2017
 
 **Today's Progress**: todoist-frontend
