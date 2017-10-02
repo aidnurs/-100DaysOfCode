@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+###Day 56: Oktober 2, 2017
+
+**Today's Progress**: todoist
+
+**Thoughts:** Coded 1h today. My lessons in universite are already begonnen, so tired but still coding
+
+###Day 55: Oktober 1, 2017
+
+**Today's Progress**: todoist
+
+**Thoughts:** functionality is almost ready. added update method, some xtra forms and buttons
+
 ###Day 54: September 30, 2017
 
 **Today's Progress**: todoist, connected frontend with backend
