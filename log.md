@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 57: Oktober 3, 2017
+
+**Today's Progress**: todoist
+
+**Thoughts:** coded a litle bit(1h) not satisfied! in a few days gonna code a lot again
+
 ###Day 56: Oktober 2, 2017
 
 **Today's Progress**: todoist
