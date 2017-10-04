@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 58: Oktober 4, 2017
+
+**Today's Progress**: aubgsurvival.fun
+
+**Thoughts:** taking part in friend's project, excited to start
+
 ###Day 57: Oktober 3, 2017
 
 **Today's Progress**: todoist
