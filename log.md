@@ -1,10 +1,11 @@
 # 100 Days Of Code - Log
 
-###!!! Day 61: Oktober 7, 2017 !!!
+###Day 61: Oktober 8, 2017
 
-**Today's Progress**: missed
+**Today's Progress**: todoist
 
-**Thoughts:** had no time and was so tired
+**Thoughts:** adding users
+
 ###!!! Day 61: Oktober 7, 2017 !!!
 
 **Today's Progress**: missed
