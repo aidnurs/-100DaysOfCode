@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+###!!! Day 61: Oktober 7, 2017 !!!
+
+**Today's Progress**: missed
+
+**Thoughts:** had no time and was so tired
+
+###Day 60: Oktober 6, 2017
+
+**Today's Progress**: todoist 
+
+**Thoughts:** want to deploy to heroku, cleaning project structure. added vue models + routes for app
+
+###Day 59: Oktober 5, 2017
+
+**Today's Progress**: aubgsurvival.fun
+
+**Thoughts:** working on style
+
 ###Day 58: Oktober 4, 2017
 
 **Today's Progress**: aubgsurvival.fun
