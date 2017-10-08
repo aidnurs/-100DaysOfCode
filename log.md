@@ -5,6 +5,11 @@
 **Today's Progress**: missed
 
 **Thoughts:** had no time and was so tired
+###!!! Day 61: Oktober 7, 2017 !!!
+
+**Today's Progress**: missed
+
+**Thoughts:** had no time and was so tired
 
 ###Day 60: Oktober 6, 2017
 
