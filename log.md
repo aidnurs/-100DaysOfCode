@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+###Day 63: Oktober 10, 2017
+
+**Today's Progress**: todoist
+
+**Thoughts:** have totally no time. last 2 weeks coding only 1h per day, so sad. today worked on users+added some code to backend
+
+###Day 62: Oktober 9, 2017
+
+**Today's Progress**: todoist
+
+**Thoughts:** still working on users
+
 ###Day 61: Oktober 8, 2017
 
 **Today's Progress**: todoist
