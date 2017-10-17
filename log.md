@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+###Day 64: Oktober 17, 2017
+
+**Today's Progress**: database on C
+
+**Thoughts:** missed a looot, no excuses!!! don't gonna stop -> continue to code!!!
+
+!!!---------------------------!!!
+
 ###Day 63: Oktober 10, 2017
 
 **Today's Progress**: todoist
