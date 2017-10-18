@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 65: Oktober 18, 2017
+
+**Today's Progress**: C dynamic memory allocation
+
+**Thoughts:** made functions to work with databases. Yeah, not so interesting, but I decided to combine study and coding
+
 ###Day 64: Oktober 17, 2017
 
 **Today's Progress**: database on C
