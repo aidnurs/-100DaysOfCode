@@ -2,9 +2,9 @@
 
 ###Day 67: Oktober 20, 2017
 
-**Today's Progress**: 
+**Today's Progress**: simon game vuejs
 
-**Thoughts:** 
+**Thoughts:** coding today on vuejs, not to lose skills
 
 ###Day 66: Oktober 19, 2017
 
