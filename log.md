@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+###Day 67: Oktober 20, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+###Day 66: Oktober 19, 2017
+
+**Today's Progress**: C dynamic memory allocation
+
+**Thoughts:** worked with pointers
+
 ###Day 65: Oktober 18, 2017
 
 **Today's Progress**: C dynamic memory allocation
