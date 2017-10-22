@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 68: Oktober 21, 2017
+
+**Today's Progress**: C dynamic memory allocation
+
+**Thoughts:** 
+
 ###Day 67: Oktober 20, 2017
 
 **Today's Progress**: simon game vuejs
