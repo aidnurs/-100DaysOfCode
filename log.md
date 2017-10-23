@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
+###Day 70: Oktober 23, 2017
+
+**Today's Progress**: C dynamic memory allocation
+
+**Thoughts:** pointers. If you can pointers you can C!
+
+###Day 69: Oktober 22, 2017
+
+**Today's Progress**: simon game vuejs
+
+**Thoughts:** already know algorithm and how it should works, but don't know how to realize everything
+
 ###Day 68: Oktober 21, 2017
 
 **Today's Progress**: C dynamic memory allocation
 
-**Thoughts:** 
+**Thoughts:** basic functions
 
 ###Day 67: Oktober 20, 2017
 
