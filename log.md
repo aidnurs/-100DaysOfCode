@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 71: Oktober 26, 2017
+
+**Today's Progress**: vuejs simon game
+
+**Thoughts:** almost finished algorithm of this game
+
 ###Day 70: Oktober 23, 2017
 
 **Today's Progress**: C dynamic memory allocation
