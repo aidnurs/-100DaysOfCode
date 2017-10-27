@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 72: Oktober 27, 2017
+
+**Today's Progress**: vuejs simon game
+
+**Thoughts:** I must finish today one important function, which will show buttons to click for user. it should be simple xP
+
 ###Day 71: Oktober 26, 2017
 
 **Today's Progress**: vuejs simon game
