@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
+###Day 74: Oktober 29, 2017
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+###Day 73: Oktober 28, 2017
+
+**Today's Progress**: vuejs simon game
+
+**Thoughts:** found and remade a big mistake in function for checking input of user. Still can't implement function that show series of right buttons to click.
+
 ###Day 72: Oktober 27, 2017
 
 **Today's Progress**: vuejs simon game
 
-**Thoughts:** I must finish today one important function, which will show buttons to click for user. it should be simple xP
+**Thoughts:** I must finish today one important function, which will show button's number to click for user. it should be simple xP
 
 ###Day 71: Oktober 26, 2017
 
