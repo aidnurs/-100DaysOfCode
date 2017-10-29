@@ -2,9 +2,9 @@
 
 ###Day 74: Oktober 29, 2017
 
-**Today's Progress**:
+**Today's Progress**: vuejs simon game. finished function which shows right serie of numbers to click for user
 
-**Thoughts:** 
+**Thoughts:** Couldn't implement this function for a couple days, so happy!
 
 ###Day 73: Oktober 28, 2017
 
