@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+###Day 77: November 1, 2017
+
+**Today's Progress**: user authentication on nodejs
+
+**Thoughts:** lately coding only things that I can. Today decided to make user auth
+
+###Day 76: Oktober 31, 2017
+
+**Today's Progress**: vuejs simon game
+
+**Thoughts:** added some style rules
+
+###Day 75: Oktober 30, 2017
+
+**Today's Progress**: vuejs simon game
+
+**Thoughts:** made start and stop buttons
+
 ###Day 74: Oktober 29, 2017
 
 **Today's Progress**: vuejs simon game. finished function which shows right serie of numbers to click for user
