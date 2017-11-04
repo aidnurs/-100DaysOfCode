@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+###Day 80: November 4, 2017
+
+**Today's Progress**: vuejs simon game
+
+**Thoughts:** lost part of my code, angry all day
+
+###Day 79: November 3, 2017
+
+**Today's Progress**: vuejs simon game
+
+**Thoughts:** added css
+
+###Day 78: November 2, 2017
+
+**Today's Progress**: made algorithms from FCC
+
+**Thoughts:** need to finish front-end
+
 ###Day 77: November 1, 2017
 
 **Today's Progress**: user authentication on nodejs
