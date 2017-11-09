@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+###Day 84: November 8, 2017
+
+**Today's Progress**: vuejs simon game
+
+**Thoughts:** forgot when I started this project xD It's been too long
+
+###Day 83: November 7, 2017
+
+**Today's Progress**: FCC algorithms3
+
+###Day 82: November 6, 2017
+
+**Today's Progress**: FCC algorithms2
+
+###Day 81: November 5, 2017
+
+**Today's Progress**: FCC algorithms1
+
 ###Day 80: November 4, 2017
 
 **Today's Progress**: vuejs simon game
