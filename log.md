@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+###Day 85: November 9, 2017
+
+**Today's Progress**: vuejs simon game + algorithms
+
+**Thoughts:** I've no style skills, ugly white page with buttons forever!!!
+
 ###Day 84: November 8, 2017
 
 **Today's Progress**: vuejs simon game
