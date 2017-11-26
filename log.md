@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+###Day 100: November 24, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+###Day 99: November 23, 2017
+
+**Today's Progress**: react + algorithms
+
+**Thoughts:** started to learn React and made FCC algorithms
+
+###Day 94-98: November 22, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+###Day 86-93: November 17, 2017
+
+**Today's Progress**: vuejs simon game + algorithms
+
+**Thoughts:** I've no style skills, ugly white page with buttons forever!!!
+
 ###Day 85: November 9, 2017
 
 **Today's Progress**: vuejs simon game + algorithms
